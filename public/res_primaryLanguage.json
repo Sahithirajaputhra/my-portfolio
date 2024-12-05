@@ -15,7 +15,7 @@
         "startDate": "2022",
         "description": "Developed a smart agriculture system using IoT to monitor soil conditions, automating data collection with sensors for moisture, temperature, and humidity. Leveraged Arduino, ESP8266, and machine learning in Python to optimize resource use and predict crop yield, reducing labor costs by 80%.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg"
+          "images/portfolio/animal-shelter/P1.jpg"
         ],
         "url": "",
         "technologies": [
@@ -38,7 +38,7 @@
         "startDate": "2024",
         "description": "Developed a web application for event creation and browsing using JavaScript, Node.js, Express, and MongoDB, incorporating user authentication and RSVP features. The app followed the MVC architecture for maintainable code, and responsive front-end design was achieved with HTML, CSS, and EJS.",
         "images": [
-          "images/portfolio/photography/p1.jpg"
+          "images/portfolio/photography/P1.jpg"
         ],
         "url": "https://github.com",
         "technologies": [
