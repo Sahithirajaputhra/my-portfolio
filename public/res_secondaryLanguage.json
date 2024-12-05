@@ -1,0 +1,106 @@
+{
+    "basic_info": {
+      "description_header": "Hola",
+      "description": "👋 Hola, soy Sahithi Rajaputhra, estudiante de maestría en Tecnología de la Información en la Universidad de Carolina del Norte en Charlotte, con un promedio general (CGPA) de 3.75. Tengo más de dos años de experiencia como Ingeniera de Software en DXC Technology, donde desarrollé y mantuve aplicaciones, automatizé procesos y trabajé en la optimización del rendimiento del sistema. Me especializo en AS400, Java, Python y JavaScript, y tengo experiencia práctica con tecnologías de desarrollo web como Node.js y MongoDB. También he liderado proyectos como un sistema de agricultura inteligente basado en IoT y una aplicación web de gestión de eventos. Además, soy poseedora de un Récord Mundial Guinness en la danza con plato Tarangam y jugadora de baloncesto a nivel distrital. Gracias💜",
+      "section_name": {
+        "about": "Sobre mí",
+        "projects": "Proyectos",
+        "skills": "Habilidades",
+        "experience": "Experiencia"
+      }
+    },
+    "projects": [
+      {
+        "title": "Smart AgroMonitor System",
+        "startDate": "2022",
+        "description": "Desarrollé un sistema de agricultura inteligente utilizando IoT para monitorear las condiciones del suelo, automatizando la recolección de datos con sensores de humedad, temperatura y humedad del aire. Se usaron Arduino, ESP8266 y aprendizaje automático en Python para optimizar el uso de recursos y predecir el rendimiento de cultivos, reduciendo los costos de mano de obra en un 80%.",
+        "images": [
+          "images/portfolio/animal-shelter/p1.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-firebase-plain",
+            "name": "Firebase"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      },
+      {
+        "title": "Event Chronicle",
+        "startDate": "2024",
+        "description": "Desarrollé una aplicación web para la creación y exploración de eventos usando JavaScript, Node.js, Express y MongoDB, incorporando características de autenticación de usuarios y confirmaciones de asistencia (RSVP). La aplicación siguió la arquitectura MVC para un código mantenible, y el diseño de front-end adaptable se logró con HTML, CSS y EJS.",
+        "images": [
+          "images/portfolio/photography/p1.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-node.js-original",
+            "name": "Node.js"
+          },
+          {
+            "class": "devicon-expressjs-plain",
+            "name": "Express"
+          },
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      }
+      
+    ],
+    "experience": [
+      {
+        "company": "DXC Technology",
+        "title": "Software Engineer",
+        "years": "05.2021 - 07.2023",
+        "mainTech": [
+          "AS400  8/9/10"
+        ],
+        "technologies": [
+          "AS400",
+          "RxJS",
+          "Node.js",
+          "JavaScript",
+          "Bootstrap",
+          "MDBootstrap",
+          "Angular Material"
+        ]
+      },
+      {
+        "company": "DXC Technology",
+        "title": "Software Engineer Intern",
+        "years": "01.2021 - 04.2021",
+        "mainTech": [
+          "AS400  8/9/10"
+        ],
+        "technologies": [
+          "RxJS",
+          "AS400  8/9/10",
+          "Node.js",
+          "JavaScript"
+        ]
+      }
+    ]
+  }

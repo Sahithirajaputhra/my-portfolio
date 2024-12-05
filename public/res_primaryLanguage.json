@@ -1,0 +1,107 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 Hi, I'm Sahithi Rajaputhra, a Master's student in Information Technology at the University of North Carolina at Charlotte with a CGPA of 3.75. I have over two years of experience as a Software Engineer at DXC Technology, where I developed and maintained applications, automated processes, and worked on system performance optimization. I specialize in AS400, Java, Python, and JavaScript, and have hands-on experience with web development technologies like Node.js and MongoDB. I've also led projects such as an IoT-based smart agriculture system and an event management web app. Additionally, I am a Guinness World Record holder in Tarangam plate dance and a district-level basketball player. Thank you 💜",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Smart AgroMonitor System",
+        "startDate": "2022",
+        "description": "Developed a smart agriculture system using IoT to monitor soil conditions, automating data collection with sensors for moisture, temperature, and humidity. Leveraged Arduino, ESP8266, and machine learning in Python to optimize resource use and predict crop yield, reducing labor costs by 80%.",
+        "images": [
+          "images/portfolio/animal-shelter/p1.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-firebase-plain",
+            "name": "Firebase"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      },
+      {
+        "title": "Event Chronicle",
+        "startDate": "2024",
+        "description": "Developed a web application for event creation and browsing using JavaScript, Node.js, Express, and MongoDB, incorporating user authentication and RSVP features. The app followed the MVC architecture for maintainable code, and responsive front-end design was achieved with HTML, CSS, and EJS.",
+        "images": [
+          "images/portfolio/photography/p1.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-node.js-original",
+            "name": "Node.js"
+          },
+          {
+            "class": "devicon-expressjs-plain",
+            "name": "Express"
+          },
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      }
+      
+      
+    ],
+    "experience": [
+      {
+        "company": "DXC Technology",
+        "title": "Software Engineer",
+        "years": "05.2021 - 07.2023",
+        "mainTech": [
+          "AS400  8/9/10"
+        ],
+        "technologies": [
+          "AS400",
+          "RxJS",
+          "Node.js",
+          "JavaScript",
+          "Bootstrap",
+          "MDBootstrap",
+          "Angular Material"
+        ]
+      },
+      {
+        "company": "DXC Technology",
+        "title": "Software Engineer Intern",
+        "years": "01.2021 - 04.2021",
+        "mainTech": [
+          "AS400  8/9/10"
+        ],
+        "technologies": [
+          "RxJS",
+          "AS400  8/9/10",
+          "Node.js",
+          "JavaScript"
+        ]
+      }
+    ]
+  }
