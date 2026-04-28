@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "name": "Sahithi Rajaputhra",
-      "titles": [ "Software Engineer", "Front-end Developer", "Graduate in Information Technology" ],
+      "titles": ["Full-Stack Developer", "Software Engineer", "Graduate in Information Technology" ],
       "social": [
         {
           "name": "github",
@@ -18,6 +18,11 @@
     },
     "skills": {
       "icons": [
+        {
+          "name": "React",
+          "class": "devicon-react-plain",
+          "level":"80"
+        },
         {
           "name": "HTML 5",
           "class": "devicon-html5-plain",
@@ -39,9 +44,19 @@
           "level": "90"
         },
         {
+          "name": "Python",
+          "class": "devicon-python-plain",
+          "level": "75"
+        },
+        {
           "name": "JavaScript",
           "class": "devicon-javascript-plain",
           "level": "70"
+        },
+        {
+          "name": "Typescript",
+          "class": "devicon-typescript-plain",
+          "level": "95"
         },
         {
           "name": "Sass",
@@ -54,14 +69,19 @@
           "level": "85"
         },
         {
-          "name": "C#",
-          "class": "devicon-csharp-plain",
-          "level": "65"
-        },
-        {
           "name": "MySql",
           "class": "devicon-mysql-plain",
           "level": "60"
+        },
+        {
+          "name": "Node.js",
+          "class": "devicon-nodejs-plain",
+          "level": "90"
+        },
+        {
+          "name": "Express",
+          "class": "devicon-express-plain",
+          "level": "90"
         }
       ]
     }

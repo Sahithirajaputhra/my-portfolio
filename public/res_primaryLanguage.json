@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 Hi, I'm Sahithi Rajaputhra, a Master's student in Information Technology at the University of North Carolina at Charlotte with a CGPA of 3.75. I have over two years of experience as a Software Engineer at DXC Technology, where I developed and maintained applications, automated processes, and worked on system performance optimization. I specialize in AS400, Java, Python, and JavaScript, and have hands-on experience with web development technologies like Node.js and MongoDB. I've also led projects such as an IoT-based smart agriculture system and an event management web app. Additionally, I am a Guinness World Record holder in Tarangam plate dance and a district-level basketball player. Thank you 💜",
+      "description": "👋Hi, I’m Sahithi Rajaputhra, a Full Stack Developer with a Master’s in Information Technology from the University of North Carolina at Charlotte (GPA: 3.7). I have experience building scalable, end-to-end applications using JavaScript, TypeScript, React, Node.js, REST APIs, and SQL/NoSQL databases Currently, I work as a Junior Software Developer at the California Air Resources Board, where I develop full-stack features, improve API reliability, and optimize application performance. Previously at DXC Technology, I worked on large-scale production systems, gaining strong experience in backend processing, system operations, and problem-solving.I enjoy building efficient, user-focused applications and writing clean,maintainable code. Outside of tech, I am a Guinness World Record holder in Tarangam plate dance and a district-level basketball player. 💜 ",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,11 +11,11 @@
     },
     "projects": [
       {
-        "title": "Smart AgroMonitor System",
-        "startDate": "2022",
-        "description": "Developed a smart agriculture system using IoT to monitor soil conditions, automating data collection with sensors for moisture, temperature, and humidity. Leveraged Arduino, ESP8266, and machine learning in Python to optimize resource use and predict crop yield, reducing labor costs by 80%.",
+        "title": "Portfolio-Based Product Dashboard",
+        "startDate": "2025",
+        "description": "Developed an interactive React dashboard to display product metrics using Recharts/Chart.js integrated with REST APIs for real-time data visualization updates. Enhanced usability by implementing routing, filters, and responsive layouts, ensuring a seamless experience across devices, and optimized performance using memoization and lazy loading, reducing initial page load time by 25%.",
         "images": [
-          "images/portfolio/animal-shelter/P1.jpg"
+          "images/portfolio/portfolio_based_project/P2.jpg"
         ],
         "url": "",
         "technologies": [
@@ -38,7 +38,7 @@
         "startDate": "2024",
         "description": "Developed a web application for event creation and browsing using JavaScript, Node.js, Express, and MongoDB, incorporating user authentication and RSVP features. The app followed the MVC architecture for maintainable code, and responsive front-end design was achieved with HTML, CSS, and EJS.",
         "images": [
-          "images/portfolio/photography/P1.jpg"
+          "images/portfolio/photography/P3.png"
         ],
         "url": "https://github.com",
         "technologies": [
@@ -67,17 +67,57 @@
             "name": "JavaScript"
           }
         ]
+      },
+      {
+        "title": "Smart AgroMonitor System",
+        "startDate": "2022",
+        "description": "Developed a smart agriculture system using IoT to monitor soil conditions, automating data collection with sensors for moisture, temperature, and humidity. Leveraged Arduino, ESP8266, and machine learning in Python to optimize resource use and predict crop yield, reducing labor costs by 80%.",
+        "images": [
+          "images/portfolio/animal-shelter/P1.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-firebase-plain",
+            "name": "Firebase"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
       }
       
       
     ],
     "experience": [
       {
+        "company": "California Air Resources Board",
+        "title": "Junior Software Developer",
+        "years": "03.2025 - Present",
+        "mainTech": [
+          "Full Stack"
+        ],
+        "technologies": [
+          "React",
+          "TypeScript",
+          "JavaScript",
+          "Node.js",
+          "REST APIs",
+          "MySQL",
+          "Angular Material"
+        ]
+      },
+      {
         "company": "DXC Technology",
         "title": "Software Engineer",
         "years": "05.2021 - 07.2023",
         "mainTech": [
-          "AS400  8/9/10"
+          "AS400"
         ],
         "technologies": [
           "AS400",
@@ -94,11 +134,11 @@
         "title": "Software Engineer Intern",
         "years": "01.2021 - 04.2021",
         "mainTech": [
-          "AS400  8/9/10"
+          "AS400"
         ],
         "technologies": [
           "RxJS",
-          "AS400  8/9/10",
+          "AS400",
           "Node.js",
           "JavaScript"
         ]
